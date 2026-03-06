@@ -32,7 +32,7 @@ function Footer() {
             <div className="w-full max-w-xs h-px bg-linear-to-r from-transparent via-orange-500/30 to-transparent" />
 
             <p className="font-bold text-base text-zinc-400 tracking-wide">
-              CRM Generation{" "}
+              Gerenciador de Seguros{" "}
               <span className="text-zinc-600 font-normal">|</span>{" "}
               <span className="text-zinc-500">Copyright {data}</span>
             </p>
