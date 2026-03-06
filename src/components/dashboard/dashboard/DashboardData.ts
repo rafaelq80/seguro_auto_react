@@ -1,5 +1,5 @@
 import type Seguro from '../../../models/Seguro'
-import type { FabricanteAgrupadoData, VendedorData, VigenciaData } from '../../../models/DashboardModel'
+import type { VigenciaData, VendedorData, FabricanteAgrupadoData } from './DashboardModel'
 
 /**
  * Agrupa seguros por status de vigência:
